@@ -1,5 +1,5 @@
 # GetDwgSaveInfo
 Консольная утилита, выводит в каком приложении был последний раз сохранен файл\
-![image](https://github.com/doctorRaz/GetDwgSaveInfo/assets/36532296/4e3a3418-ccdd-4737-900a-ba9b83c48e12)
+![image](https://github.com/doctorRaz/GetDwgSaveInfo/assets/36532296/4e3a3418-ccdd-4737-900a-ba9b83c48e12) \
 Код Александра Ривилиса\
 Мои правки прикрутил файл диалог и так по мелочи
