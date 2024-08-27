@@ -9,7 +9,7 @@ using System.Windows.Forms;
 
 //https://adn-cis.org/forum/index.php?topic=2972.0#msg11337
 
-namespace GetDwgSaveInfo
+namespace drz.GetDwgSaveInfo
 {
     class Program
     {
